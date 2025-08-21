@@ -4,5 +4,5 @@
 
 
 * Evaluation Metrics:
-  mAP50-95(Avg acc):  0.5127
-  mAP50(Avg acc):  0.7545
+  * mAP50-95(Avg acc):  0.5127
+  * mAP50(Avg acc):  0.7545
